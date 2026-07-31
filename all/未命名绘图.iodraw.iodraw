@@ -39,7 +39,7 @@
         <mxCell id="X9t_eGKAUYosp5QQpllP-8" value="摄像头采集图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X9t_eGKAUYosp5QQpllP-9" value="掩膜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X9t_eGKAUYosp5QQpllP-9" value="多边形识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
