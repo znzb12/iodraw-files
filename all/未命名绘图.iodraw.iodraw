@@ -14,8 +14,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9t_eGKAUYosp5QQpllP-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="X9t_eGKAUYosp5QQpllP-3" value="XY轴步进电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
