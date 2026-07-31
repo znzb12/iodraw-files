@@ -51,8 +51,8 @@
         <mxCell id="X9t_eGKAUYosp5QQpllP-12" value="坐标计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X9t_eGKAUYosp5QQpllP-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="X9t_eGKAUYosp5QQpllP-13" value="数据发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
