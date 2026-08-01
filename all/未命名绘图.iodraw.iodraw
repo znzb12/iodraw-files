@@ -5,43 +5,43 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X9t_eGKAUYosp5QQpllP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="70" width="330" height="320" as="geometry" />
+          <mxGeometry x="60" y="90" width="320" height="300" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-17" value="运动主控" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="80" width="120" height="30" as="geometry" />
+          <mxGeometry x="165" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-18" target="X9t_eGKAUYosp5QQpllP-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-18" value="f427vet6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="140" width="110" height="40" as="geometry" />
+          <mxGeometry x="80" y="160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-19" value="运动路径计算" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="205" width="95" height="25" as="geometry" />
+          <mxGeometry x="87.5" y="225" width="95" height="25" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-21" target="X9t_eGKAUYosp5QQpllP-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-21" value="xy轴步进电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="270" width="80" height="20" as="geometry" />
+          <mxGeometry x="95" y="290" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-21" target="X9t_eGKAUYosp5QQpllP-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
+            <mxPoint x="320" y="440" as="sourcePoint" />
+            <mxPoint x="370" y="390" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-26" value="末端旋转" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="340" width="80" height="20" as="geometry" />
+          <mxGeometry x="95" y="360" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-28" value="电磁铁吸取铁片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="300" width="100" height="20" as="geometry" />
+          <mxGeometry x="200" y="320" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="245" y="305" as="sourcePoint" />
-            <mxPoint x="210" y="310" as="targetPoint" />
+            <mxPoint x="175" y="325" as="sourcePoint" />
+            <mxPoint x="140" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
