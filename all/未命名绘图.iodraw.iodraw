@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X9t_eGKAUYosp5QQpllP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="320" height="300" as="geometry" />
+          <mxGeometry x="60" y="90" width="350" height="300" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-17" value="运动主控" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="100" width="120" height="30" as="geometry" />
@@ -57,7 +57,7 @@
           <mxGeometry x="187.5" y="290" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-43" value="末端旋转机构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="80" height="20" as="geometry" />
+          <mxGeometry x="300" y="290" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -67,8 +67,8 @@
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="197.5" y="380" as="sourcePoint" />
-            <mxPoint x="247.5" y="330" as="targetPoint" />
+            <mxPoint x="230" y="370" as="sourcePoint" />
+            <mxPoint x="280" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
