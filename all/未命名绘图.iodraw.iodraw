@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X9t_eGKAUYosp5QQpllP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="100" width="350" height="300" as="geometry" />
+          <mxGeometry x="-80" y="100" width="350" height="320" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-17" value="运动主控" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="110" width="120" height="30" as="geometry" />
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="100" width="340" height="300" as="geometry" />
+          <mxGeometry x="460" y="100" width="340" height="320" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-31" value="视觉主控" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="110" width="120" height="30" as="geometry" />
