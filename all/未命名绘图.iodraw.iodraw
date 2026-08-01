@@ -198,7 +198,7 @@
             <mxPoint x="540" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9t_eGKAUYosp5QQpllP-90" value="Z轴抬升机构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X9t_eGKAUYosp5QQpllP-90" value="碎片旋转、移动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="350" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-21" target="X9t_eGKAUYosp5QQpllP-90">
@@ -207,7 +207,7 @@
             <mxPoint x="35" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9t_eGKAUYosp5QQpllP-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-43">
+        <mxCell id="X9t_eGKAUYosp5QQpllP-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-43" target="X9t_eGKAUYosp5QQpllP-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="185" y="385" as="sourcePoint" />
             <mxPoint x="235" y="335" as="targetPoint" />
