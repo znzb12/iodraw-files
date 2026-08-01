@@ -90,67 +90,67 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-51" value="原始坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-710" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-52" value="旋转角度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-510" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-54" target="X9t_eGKAUYosp5QQpllP-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-54" value="舵机回零" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-56" target="X9t_eGKAUYosp5QQpllP-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-56" value="舵机旋转角度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="X9t_eGKAUYosp5QQpllP-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="780" as="sourcePoint" />
-            <mxPoint x="-120" y="730" as="targetPoint" />
+            <mxPoint x="-390" y="810" as="sourcePoint" />
+            <mxPoint x="-340" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.994;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-52" target="X9t_eGKAUYosp5QQpllP-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-160" y="820" as="sourcePoint" />
-            <mxPoint x="-110" y="770" as="targetPoint" />
+            <mxPoint x="-380" y="850" as="sourcePoint" />
+            <mxPoint x="-330" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-59" target="X9t_eGKAUYosp5QQpllP-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-59" value="舵机下方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-61" target="X9t_eGKAUYosp5QQpllP-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-61" value="舵机下方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-63" target="X9t_eGKAUYosp5QQpllP-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-63" value="舵机抬升" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-65" target="X9t_eGKAUYosp5QQpllP-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-65" value="舵机回升" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-67" value="舵机旋转角度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-69" value="舵机回零" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
