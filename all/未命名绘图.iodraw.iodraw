@@ -1,36 +1,36 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2Jm7EBbGxZWWHoC3nnO1">
-    <mxGraphModel dx="2615" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3048" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X9t_eGKAUYosp5QQpllP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="350" height="300" as="geometry" />
+          <mxGeometry x="-80" y="100" width="350" height="300" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-17" value="运动主控" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="20" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-18" value="f427vet6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="87.5" y="140" width="100" height="30" as="geometry" />
+          <mxGeometry x="-52.5" y="150" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-19" value="运动路径计算" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="87.5" y="220" width="95" height="25" as="geometry" />
+          <mxGeometry x="-52.5" y="230" width="95" height="25" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-21" target="X9t_eGKAUYosp5QQpllP-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-21" value="xy轴步进电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="290" width="80" height="20" as="geometry" />
+          <mxGeometry x="-45" y="300" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-21" target="X9t_eGKAUYosp5QQpllP-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="440" as="sourcePoint" />
-            <mxPoint x="370" y="390" as="targetPoint" />
+            <mxPoint x="180" y="450" as="sourcePoint" />
+            <mxPoint x="230" y="400" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-26" value="末端旋转" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="360" width="80" height="20" as="geometry" />
+          <mxGeometry x="-45" y="370" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="90" width="340" height="300" as="geometry" />
@@ -46,8 +46,8 @@
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-18" target="X9t_eGKAUYosp5QQpllP-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="200" as="sourcePoint" />
-            <mxPoint x="260" y="150" as="targetPoint" />
+            <mxPoint x="70" y="210" as="sourcePoint" />
+            <mxPoint x="120" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-37" target="X9t_eGKAUYosp5QQpllP-78">
@@ -57,21 +57,21 @@
           <mxGeometry x="500" y="200" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-41" value="Z轴抬升机构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="80" height="20" as="geometry" />
+          <mxGeometry x="60" y="300" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-43" value="末端旋转机构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="290" width="80" height="20" as="geometry" />
+          <mxGeometry x="170" y="300" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-43" target="X9t_eGKAUYosp5QQpllP-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="370" as="sourcePoint" />
-            <mxPoint x="280" y="320" as="targetPoint" />
+            <mxPoint x="90" y="380" as="sourcePoint" />
+            <mxPoint x="140" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-21" target="X9t_eGKAUYosp5QQpllP-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="182.5" y="280" as="sourcePoint" />
-            <mxPoint x="232.5" y="230" as="targetPoint" />
+            <mxPoint x="42.5" y="290" as="sourcePoint" />
+            <mxPoint x="92.5" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-48" target="X9t_eGKAUYosp5QQpllP-85">
@@ -191,8 +191,8 @@
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-87" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="360" y="114.66" as="sourcePoint" />
-            <mxPoint x="480" y="114.7599999999999" as="targetPoint" />
+            <mxPoint x="300" y="249" as="sourcePoint" />
+            <mxPoint x="420" y="249.0999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
