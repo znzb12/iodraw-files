@@ -167,8 +167,14 @@
         <mxCell id="X9t_eGKAUYosp5QQpllP-76" value="碎片送达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="X9t_eGKAUYosp5QQpllP-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-78" target="X9t_eGKAUYosp5QQpllP-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-78" value="图像处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200" width="100" height="20" as="geometry" />
+          <mxGeometry x="640" y="195" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X9t_eGKAUYosp5QQpllP-80" value="图像处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="305" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
