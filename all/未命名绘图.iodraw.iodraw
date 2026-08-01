@@ -95,7 +95,7 @@
         <mxCell id="X9t_eGKAUYosp5QQpllP-52" value="旋转角度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X9t_eGKAUYosp5QQpllP-54" value="旋转角度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X9t_eGKAUYosp5QQpllP-54" value="舵机回零" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9t_eGKAUYosp5QQpllP-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -107,7 +107,7 @@
             <mxPoint x="-120" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9t_eGKAUYosp5QQpllP-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.994;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-52">
+        <mxCell id="X9t_eGKAUYosp5QQpllP-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.994;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-52" target="X9t_eGKAUYosp5QQpllP-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160" y="820" as="sourcePoint" />
             <mxPoint x="-110" y="770" as="targetPoint" />
