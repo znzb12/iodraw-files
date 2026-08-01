@@ -59,13 +59,13 @@
         <mxCell id="X9t_eGKAUYosp5QQpllP-43" value="末端旋转机构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="X9t_eGKAUYosp5QQpllP-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-15">
+        <mxCell id="X9t_eGKAUYosp5QQpllP-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-15" target="X9t_eGKAUYosp5QQpllP-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="187.5" y="370" as="sourcePoint" />
             <mxPoint x="237.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9t_eGKAUYosp5QQpllP-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="X9t_eGKAUYosp5QQpllP-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="370" as="sourcePoint" />
             <mxPoint x="280" y="320" as="targetPoint" />
