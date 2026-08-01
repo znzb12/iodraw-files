@@ -152,10 +152,10 @@
         <mxCell id="X9t_eGKAUYosp5QQpllP-73" value="移动到目标坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X9t_eGKAUYosp5QQpllP-74" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="X9t_eGKAUYosp5QQpllP-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9t_eGKAUYosp5QQpllP-67" target="X9t_eGKAUYosp5QQpllP-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="1060" as="sourcePoint" />
-            <mxPoint x="230" y="1010" as="targetPoint" />
+            <mxPoint x="420" y="740" as="sourcePoint" />
+            <mxPoint x="470" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
